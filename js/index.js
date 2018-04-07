@@ -1,0 +1,1 @@
+console.log(CLOUDINARY_API_KEY);
