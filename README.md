@@ -1,3 +1,3 @@
-# leni-visual
-simple website for Leni
+# Ocean View Coding
+OVC website 
 
